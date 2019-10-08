@@ -1,0 +1,8 @@
+c:\users\rb\documents\visual studio 2010\Projects\ST\ST\bin\ST.dll
+c:\users\rb\documents\visual studio 2010\Projects\ST\ST\bin\ST.pdb
+c:\users\rb\documents\visual studio 2010\Projects\ST\ST\obj\Debug\ST.dll
+c:\users\rb\documents\visual studio 2010\Projects\ST\ST\obj\Debug\ST.pdb
+C:\Users\RB\Desktop\ST\ST\bin\ST.dll
+C:\Users\RB\Desktop\ST\ST\bin\ST.pdb
+C:\Users\RB\Desktop\ST\ST\obj\Debug\ST.dll
+C:\Users\RB\Desktop\ST\ST\obj\Debug\ST.pdb
